@@ -36,9 +36,9 @@ Local çalıştırma (önerilen akış)
 
 Ortam değişkenleri / parametreler
 - Sisteme göre base URL şu sırayla okunur:
-  1) Maven system property: -Dapi.baseUrl=...
-  2) Ortam değişkeni: API_BASE_URL
-  3) Varsayılan: http://localhost:3000
+  1. Maven system property: -Dapi.baseUrl=...
+  2. Ortam değişkeni: API_BASE_URL
+  3. Varsayılan: http://localhost:3000
 
 Hata giderme
 - UnknownHost: API host DNS çözülmüyor — gerçek endpoint verin veya local mock başlatın.
