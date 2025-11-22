@@ -1,0 +1,7 @@
+/target
+/node_modules
+/.idea
+/.vscode
+/tmp*
+*.log
+.DS_Store
