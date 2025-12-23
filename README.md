@@ -23,7 +23,7 @@ Files / Locations
 Local Execution (Recommended Flow)
 	1.Go to the automation directory:
 
-  cd /Users/gulcancelik/Desktop/awsProject/aws-serverless-book-api-qa/automation
+  cd /Users/gulcancelik/Desktop/awsProject/aws-serverless-book-api-qa/automation 
 
   	2.	Start the mock API with json-server (in a separate terminal):
 
