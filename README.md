@@ -10,7 +10,7 @@ Prerequisites
 
   export JAVA_HOME=$(/usr/libexec/java_home -v17)
 
-  	•	Maven (3.9+)
+  	•	Maven (3.9+) 
 	•	Node.js + npm (for json-server)
 	•	(Optional) Newman (to run the Postman collection from CLI)
 
